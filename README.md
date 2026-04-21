@@ -17,17 +17,6 @@
 
 ---
 
-## 🖼️ 项目预览
-
-> 如果你有截图，建议放一张页面截图，会很好看。
-
-![Demo Screenshot](assets/demo.png)
-
-> 如果你有动图，可以换成 GIF：
-> `![Demo GIF](assets/demo.gif)`
-
----
-
 ## ✨ 核心功能
 
 - 📤 支持上传 PDF 文件
